@@ -1,0 +1,9 @@
+{
+	"name": "DF-KEVIN-01",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2ed9b5e-a37c-496f-99c8-7461b89d9df1",
+		"tenantId": "0541a684-c53a-4b8f-a340-de4b63236448"
+	}
+}
