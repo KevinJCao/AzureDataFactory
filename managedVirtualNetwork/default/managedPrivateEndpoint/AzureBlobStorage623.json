@@ -1,0 +1,7 @@
+{
+	"name": "AzureBlobStorage623",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/a8d10c9f-d161-402b-82e3-5c5127eb0384/resourceGroups/AzureLearning/providers/Microsoft.Storage/storageAccounts/dfsdemo",
+		"groupId": "blob"
+	}
+}
