@@ -1,0 +1,19 @@
+{
+	"name": "DestDataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "ziploc.csv",
+				"folderPath": "Output",
+				"container": "sf-demo"
+			}
+		}
+	}
+}
